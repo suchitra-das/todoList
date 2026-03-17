@@ -9,8 +9,9 @@ function App() {
   return (
     
   
-      <div className="">
-       Task 
+      <div>
+        <div className="items-center justify-center p-8 text-black font-bold">Task </div>
+       
        <Todo/>
       </div>
      
